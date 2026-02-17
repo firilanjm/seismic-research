@@ -1,3 +1,6 @@
+Status: Ongoing
+Last update: February 2026
+
 ## Project Motivation
 
 Earthquakes can cause severe damage to infrastructure and communities, making it essential to understand how key earthquake attributes relate to one another. Core parameters such as magnitude and depth are known to influence the severity and overall impact of seismic events. Prior research suggests that seismic activity does not occur randomly; rather, it often exhibits structured patterns and “memory,” where characteristics of earlier events influence subsequent earthquakes.
