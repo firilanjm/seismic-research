@@ -1,7 +1,3 @@
-Status: Ongoing
-
-Last update: February 2026
-
 Tools: R
 
 ## Project Motivation
